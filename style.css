@@ -1,0 +1,23 @@
+body{
+    background-color: #d9d9d9;
+}
+.js{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #8c8c8c;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    margin: 15px 15px 15px 15px;
+    
+}
+.chp, .sol,.book{
+background-color: #bfbfbf;
+}
+button{
+    height: 50px;
+    font-size: 18pt;
+    background-color:  #8c8c8c;
+    box-shadow: 4px 5px 6px;
+}
